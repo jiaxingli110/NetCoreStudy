@@ -1,0 +1,16 @@
+/*.content {
+    width:100px;
+    height:500px;
+    display:flex;
+   .left{
+       width:200px;
+       border-right:1px solid #eee;
+       height:500px;
+   }
+   .right{
+       flex:1px;
+   }
+}
+
+*/
+@import "~element-angular/theme/index.css";

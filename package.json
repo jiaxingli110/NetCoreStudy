@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@angular/core": "^5.2.3",
+    "element-angular": "^0.7.6",
+    "element-ui": "^2.15.3"
+  }
+}
